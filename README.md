@@ -1,5 +1,6 @@
 <!-- Shields -->
 [![licence](https://img.shields.io/badge/License-MIT-orange.svg)](https://github.com/maekind/python-main-template/blob/main/LICENSE)
+[![python_version](https://img.shields.io/badge/python%20version-%3E3.10-blue)](https://www.python.org/downloads/release/python-3110/)
 [![size](https://img.shields.io/github/repo-size/maekind/python-main-template)](https://github.com/maekind/python-main-template)
 [![last_commit](https://img.shields.io/github/last-commit/maekind/python-main-template?color=violet)](https://github.com/maekind/python-main-template)
 [![language](https://img.shields.io/github/languages/top/maekind/python-main-template?color=yellowgreen)](https://github.com/maekind/python-main-template)
@@ -16,7 +17,12 @@ It consists of the following:
 
 ## Initial configuration
 
-TODO
+You can find `TODO` comments along the code. The main configuration should be:
+- Replace the `PACKAGE_NAME` folder name with your own. Make sure that your imports point to right package name.
+- Add more arguments if necessary to the main file and check for all of them which are meant to be mandatory.
+- Rename the MAIN_CLASS_NAME file with your own. Make sure that you also rename the class inside the file.
+
+The rest of the `TODO` are informational.
 
 ## Environment configuration
 
