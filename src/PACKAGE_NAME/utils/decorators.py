@@ -25,8 +25,6 @@ class Logging:
             @functools.wraps(func)
             def wrapper(*args, **kwargs):
                 """ wrapper for the decorator """
-                # logger = logging.getLogger(
-                #     str(func.__qualname__).split('.', maxsplit=1)[0])
                 logger = logging.getLogger(args[0]._name)
                 logger.info("%s", message)
                 res = func(*args, **kwargs)
