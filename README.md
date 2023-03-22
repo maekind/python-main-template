@@ -5,7 +5,7 @@
 [![last_commit](https://img.shields.io/github/last-commit/maekind/python-main-template?color=violet)](https://github.com/maekind/python-main-template)
 [![language](https://img.shields.io/github/languages/top/maekind/python-main-template?color=yellowgreen)](https://github.com/maekind/python-main-template)
 
-# Python main template
+# Python main template 🐍
 
 ## Description
 
